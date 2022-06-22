@@ -1,2 +1,1 @@
-git pull
-updated using Github.com
+updated 22-06-2022
